@@ -1,0 +1,14 @@
+*{
+    font-size: 14px;
+    font-family: 'BYekan';
+}
+
+div.dataTables_filter{
+    text-align: left;
+}
+
+.app-header.bg-light .navbar-brand{
+
+    justify-content: right;
+
+}
